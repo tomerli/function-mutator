@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dynamic Function Demo</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 2em;
+      max-width: 800px;
+      margin: auto;
+      background: #f5f5f5;
+    }
+    .card {
+      background: white;
+      border-radius: 10px;
+      padding: 1em;
+      margin-bottom: 1em;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    .fn-name {
+      font-weight: bold;
+      margin-bottom: 0.5em;
+    }
+    #mutateBtn {
+      background: #2563eb;
+      color: white;
+      padding: 0.75em 1.5em;
+      border: none;
+      border-radius: 8px;
+      font-size: 1em;
+      cursor: pointer;
+      display: block;
+      margin: 0 auto 2em auto;
+      box-shadow: 0 3px 6px rgba(0,0,0,0.15);
+    }
+    #mutateBtn:hover {
+      background: #1e40af;
+    }
+  </style>
+</head>
+<body>
+  <button id="mutateBtn">🔁 Mutate Now</button>
+  <div id="output"></div>
+
+  <script src="functions.js"></script>
+  <script>
+    const output = document.getElementById("output");
+    output.innerHTML = "";
+
+    const fns = Object.keys(window).filter(fn => fn.startsWith("func_"));
+
+    function extractColor(text) {
+      const hexMatch = text.match(/#(?:[0-9a-fA-F]{3}){1,2}/);
+      const namedMatch = text.match(/\b(red|blue|green|yellow|orange|purple|cyan|pink|black|white|gray)\b/i);
+      return hexMatch?.[0] || namedMatch?.[0];
+    }
+
+    function getContrastYIQ(hexcolor) {
+      hexcolor = hexcolor.replace("#", "");
+      if (hexcolor.length === 3) {
+        hexcolor = hexcolor.split("").map(c => c + c).join("");
+      }
+      const r = parseInt(hexcolor.substr(0, 2), 16);
+      const g = parseInt(hexcolor.substr(2, 2), 16);
+      const b = parseInt(hexcolor.substr(4, 2), 16);
+      const yiq = (r * 299 + g * 587 + b * 114) / 1000;
+      return yiq >= 128 ? "black" : "white";
+    }
+
+    fns.forEach(fnName => {
+      try {
+        const value = window[fnName]();
+        const color = extractColor(value);
+
+        const card = document.createElement("div");
+        card.className = "card";
+
+        if (color) {
+          card.style.background = color;
+          if (color.startsWith("#")) {
+            card.style.color = getContrastYIQ(color);
+          } else {
+            card.style.color = "white";
+          }
+        }
+
+        card.innerHTML = \`
+          <div class="fn-name">\${fnName}</div>
+          <div class="fn-output">\${value}</div>
+        \`;
+        output.appendChild(card);
+      } catch (e) {
+        const card = document.createElement("div");
+        card.className = "card";
+        card.innerHTML = \`
+          <div class="fn-name">\${fnName}</div>
+          <div class="fn-output">❌ Error</div>
+        \`;
+        output.appendChild(card);
+      }
+    });
+
+    document.getElementById("mutateBtn").addEventListener("click", () => {
+      fetch("/mutate", { method: "POST" })
+        .then(res => {
+          if (res.ok) {
+            alert("✅ Mutation triggered.");
+            location.reload();
+          } else {
+            alert("⚠️ Error mutating.");
+          }
+        });
+    });
+  </script>
+</body>
+</html>
