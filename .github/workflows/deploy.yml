@@ -1,0 +1,39 @@
+name: Auto Deploy
+
+on:
+  push:
+    paths:
+      - 'functions.js'
+  schedule:
+    - cron: '0 * * * *'  # Run every hour
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          
+      - name: Install dependencies
+        run: npm install express
+        
+      - name: Perform mutation
+        run: node mutate.js
+        
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add functions.js
+          git commit -m "🧬 Auto-mutation at $(date '+%Y-%m-%d %H:%M:%S')" || exit 0
+          git push
+          
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./ 
