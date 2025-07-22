@@ -16,10 +16,17 @@ app.post('/mutate', (req, res) => {
       console.error(stderr);
       return res.status(500).send('Mutation failed');
     }
-    // Extract the function index from the output
-    const match = stdout.match(/Replaced function #(\d+)/);
-    const functionIndex = match ? match[1] : '1';
-    res.json({ success: true, mutatedIndex: functionIndex });
+    // Commit and push the change
+    exec('git add functions.js && git commit -m "🧬 Manual mutation at $(date)" && git push', (err, out, errout) => {
+      if (err) {
+        console.error(errout);
+        return res.status(500).send('Mutation committed but push failed');
+      }
+      // Extract the function index from the output
+      const match = stdout.match(/Replaced function #(\d+)/);
+      const functionIndex = match ? match[1] : '1';
+      res.json({ success: true, mutatedIndex: functionIndex });
+    });
   });
 });
 
