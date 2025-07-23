@@ -38,13 +38,38 @@
     #mutateBtn:hover {
       background: #1e40af;
     }
+    #resetBtn {
+      background: #dc2626;
+      color: white;
+      padding: 0.75em 1.5em;
+      border: none;
+      border-radius: 8px;
+      font-size: 1em;
+      cursor: pointer;
+      display: block;
+      margin: 0 auto 2em auto;
+      box-shadow: 0 3px 6px rgba(0,0,0,0.15);
+    }
+    #resetBtn:hover {
+      background: #b91c1c;
+    }
+    .highlight {
+      animation: highlightPulse 2s ease-in-out;
+    }
+    @keyframes highlightPulse {
+      0% { transform: scale(1); box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+      50% { transform: scale(1.05); box-shadow: 0 4px 12px rgba(255, 193, 7, 0.6); background: #fff3cd !important; }
+      100% { transform: scale(1); box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+    }
   </style>
 </head>
 <body>
   <button id="mutateBtn">🔁 Mutate Now</button>
+  <button id="resetBtn">🔄 Reset to Default</button>
   <div id="output"></div>
 
   <script src="functions.js"></script>
+  <!-- Updated for GitHub Pages deployment -->
   <script>
     const output = document.getElementById("output");
     output.innerHTML = "";
@@ -86,30 +111,57 @@
           }
         }
 
-        card.innerHTML = \`
-          <div class="fn-name">\${fnName}</div>
-          <div class="fn-output">\${value}</div>
-        \`;
+        card.innerHTML = `
+          <div class="fn-name">${fnName}</div>
+          <div class="fn-output">${value}</div>
+        `;
         output.appendChild(card);
       } catch (e) {
         const card = document.createElement("div");
         card.className = "card";
-        card.innerHTML = \`
-          <div class="fn-name">\${fnName}</div>
+        card.innerHTML = `
+          <div class="fn-name">${fnName}</div>
           <div class="fn-output">❌ Error</div>
-        \`;
+        `;
         output.appendChild(card);
       }
     });
 
+    // Check if we just mutated and highlight the correct function
+    const mutatedIndex = sessionStorage.getItem('mutatedIndex');
+    if (mutatedIndex) {
+      sessionStorage.removeItem('mutatedIndex');
+      const cards = document.querySelectorAll('.card');
+      const index = parseInt(mutatedIndex) - 1; // Convert to 0-based index
+      if (cards[index]) {
+        cards[index].classList.add('highlight');
+      }
+    }
+
     document.getElementById("mutateBtn").addEventListener("click", () => {
       fetch("/mutate", { method: "POST" })
-        .then(res => {
-          if (res.ok) {
-            alert("✅ Mutation triggered.");
+        .then(res => res.json())
+        .then(data => {
+          if (data.success) {
+            // Store the mutated function index
+            sessionStorage.setItem('mutatedIndex', data.mutatedIndex);
             location.reload();
           } else {
             alert("⚠️ Error mutating.");
+          }
+        })
+        .catch(() => {
+          alert("⚠️ Error mutating.");
+        });
+    });
+
+    document.getElementById("resetBtn").addEventListener("click", () => {
+      fetch("/reset", { method: "POST" })
+        .then(res => {
+          if (res.ok) {
+            location.reload();
+          } else {
+            alert("⚠️ Error resetting.");
           }
         });
     });

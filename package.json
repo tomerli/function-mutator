@@ -1,0 +1,20 @@
+{
+  "name": "function-mutator",
+  "version": "1.0.0",
+  "description": "A demo app that mutates JavaScript functions dynamically",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "mutate": "node mutate.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "keywords": [
+    "mutation",
+    "demo",
+    "javascript"
+  ],
+  "author": "tomerli",
+  "license": "MIT"
+}

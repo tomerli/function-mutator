@@ -1,5 +1,10 @@
-function func_alpha() { return "Hex color: #89bdfc"; }
-function func_beta() { return "Unicode char: " + String.fromCharCode(65 + Math.floor(Math.random() * 26)); }
-function func_gamma() { return "Random emoji: 😊😂🥺😒".split('')[Math.floor(Math.random()*4)]; }
-function func_delta() { return "Current hour: " + new Date().getHours(); }
-function func_epsilon() { return "Color name: red"; }
+function func_alpha() { return "Math magic: 3 * 7"; }
+function func_beta() { return "Emoji blast: 😊"; }
+function func_gamma() { return "Hex color: #aabbcc"; }
+function func_delta() { return "Quote: 'The time is always right to do what is right.'"; }
+function func_epsilon() { return "Current seconds: 30"; }
+function func_zeta() { return "Random number: 42"; }
+function func_6dd8hu() { return "Current seconds: 23"; }
+function func_theta() { return "Color name: red"; }
+function func_iota() { return "Animal sound: Meow"; }
+function func_kappa() { return "Day of week: Monday"; }
