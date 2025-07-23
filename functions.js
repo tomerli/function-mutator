@@ -1,4 +1,4 @@
-function func_iivmjj() { return "Hex color: #19c331"; }
+function func_r6buij() { return "Color name: orange"; }
 function func_utj114() { return "Animal sound: Baa"; }
 function func_1ql54w() { return "Current seconds: 14"; }
 function func_delta() { return "Quote: 'The time is always right to do what is right.'"; }
