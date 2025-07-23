@@ -2,8 +2,8 @@ name: Deploy & Run
 
 on:
   push:
-    paths:
-      - 'functions.js'
+    branches:
+      - main
   schedule:
     - cron: '0 * * * *'  # Run every hour
 
