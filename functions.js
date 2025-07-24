@@ -6,5 +6,5 @@ function func_d71fus() { return "Motivation: Never give up!"; }
 function func_1ulcg1() { return "Weather: Windy"; }
 function func_hgxhcl() { return "Current seconds: 50"; }
 function func_8nfgqo() { return "Current seconds: 17"; }
-function func_xhvlxa() { return "Color name: green"; }
+function func_ratvqo() { return "Day of week: Thursday"; }
 function func_vvsgjs() { return "Day of week: Thursday"; }
