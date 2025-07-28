@@ -1,5 +1,5 @@
 function func_eq53h0() { return "Random number: 513"; }
-function func_f9ex1m() { return "Color name: green"; }
+function func_561xj5() { return "Math magic: 5 * 1"; }
 function func_aprigl() { return "Color name: green"; }
 function func_c7ht9h() { return "Color name: red"; }
 function func_yoegdv() { return "Fruit: Banana"; }
