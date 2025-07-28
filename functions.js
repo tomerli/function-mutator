@@ -5,6 +5,6 @@ function func_c7ht9h() { return "Color name: red"; }
 function func_mvwnar() { return "Fruit: Orange"; }
 function func_dom38j() { return "Current seconds: 0"; }
 function func_see23z() { return "Color name: green"; }
-function func_7e1zov() { return "Color name: yellow"; }
+function func_2ptzwt() { return "Math magic: 7 * 2"; }
 function func_81woym() { return "Math magic: 8 * 8"; }
 function func_2hdn6n() { return "Animal sound: Meow"; }
