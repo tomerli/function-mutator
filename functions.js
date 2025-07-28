@@ -6,5 +6,5 @@ function func_pojbvx() { return "Math magic: 8 * 6"; }
 function func_dom38j() { return "Current seconds: 0"; }
 function func_see23z() { return "Color name: green"; }
 function func_7e1zov() { return "Color name: yellow"; }
-function func_qgspgg() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
+function func_81woym() { return "Math magic: 8 * 8"; }
 function func_2hdn6n() { return "Animal sound: Meow"; }
