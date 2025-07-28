@@ -5,6 +5,6 @@ function func_c7ht9h() { return "Color name: red"; }
 function func_pojbvx() { return "Math magic: 8 * 6"; }
 function func_rzd9r0() { return "Random number: 484"; }
 function func_see23z() { return "Color name: green"; }
-function func_csg63a() { return "Fruit: Grape"; }
+function func_7e1zov() { return "Color name: yellow"; }
 function func_ler4ne() { return "Current minute: 12"; }
 function func_wvz7k5() { return "Day of week: Sunday"; }
