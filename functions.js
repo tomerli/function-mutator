@@ -2,7 +2,7 @@ function func_mu6uk7() { return "Current seconds: 0"; }
 function func_f9ex1m() { return "Color name: green"; }
 function func_aprigl() { return "Color name: green"; }
 function func_c7ht9h() { return "Color name: red"; }
-function func_1bj1g3() { return "Hex color: #ef669a"; }
+function func_yoegdv() { return "Fruit: Banana"; }
 function func_lvhlp2() { return "Quote: 'Life is what happens when you're busy making other plans.'"; }
 function func_see23z() { return "Color name: green"; }
 function func_2ptzwt() { return "Math magic: 7 * 2"; }
