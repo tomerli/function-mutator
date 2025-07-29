@@ -6,5 +6,5 @@ function func_yoegdv() { return "Fruit: Banana"; }
 function func_a0jc9x() { return "Weather: Windy"; }
 function func_5dal1l() { return "Math magic: 7 * 4"; }
 function func_ax1eqb() { return "Color name: yellow"; }
-function func_qx7a40() { return "Motivation: You can do it!"; }
+function func_bckfa3() { return "Math magic: 4 * 0"; }
 function func_2hdn6n() { return "Animal sound: Meow"; }
