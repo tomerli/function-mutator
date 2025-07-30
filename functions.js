@@ -1,4 +1,4 @@
-function func_n2ejk6() { return "Day of week: Wednesday"; }
+function func_us0nr4() { return "Math magic: 0 * 3"; }
 function func_gxj7ff() { return "Random number: 489"; }
 function func_wqxsgt() { return "Day of week: Wednesday"; }
 function func_ojs9mn() { return "Color name: purple"; }
