@@ -1,4 +1,4 @@
-function func_rwys9w() { return "Emoji blast: 😴"; }
+function func_qxvolj() { return "Color name: blue"; }
 function func_gxj7ff() { return "Random number: 489"; }
 function func_hd0iv2() { return "Random number: 436"; }
 function func_tihgw8() { return "Color name: purple"; }
