@@ -6,5 +6,5 @@ function func_qoy3qv() { return "Quote: 'The time is always right to do what is 
 function func_i0c9mr() { return "Motivation: Work hard!"; }
 function func_uqbem3() { return "Fruit: Apple"; }
 function func_3jtw79() { return "Animal sound: Woof"; }
-function func_fnezkl() { return "Hex color: #e6c716"; }
+function func_bom7r7() { return "Quote: 'Life is what happens when you're busy making other plans.'"; }
 function func_x430l8() { return "Motivation: Work hard!"; }
