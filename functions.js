@@ -4,7 +4,7 @@ function func_ro8znm() { return "Animal sound: Meow"; }
 function func_29dofv() { return "Weather: Snowy"; }
 function func_8p8k8q() { return "Motivation: You can do it!"; }
 function func_6droa6() { return "Weather: Sunny"; }
-function func_70uje2() { return "Motivation: Work hard!"; }
+function func_3xxy4x() { return "Color name: purple"; }
 function func_f4b728() { return "Day of week: Friday"; }
 function func_fnezkl() { return "Hex color: #e6c716"; }
 function func_x430l8() { return "Motivation: Work hard!"; }
