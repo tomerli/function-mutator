@@ -3,7 +3,7 @@ function func_hh4kh3() { return "Quote: 'Life is what happens when you're busy m
 function func_bxm4vg() { return "Math magic: 8 * 8"; }
 function func_jhdrj4() { return "Motivation: Work hard!"; }
 function func_tzoemn() { return "Random number: 759"; }
-function func_s9jysy() { return "Color name: red"; }
+function func_ttay7l() { return "Day of week: Monday"; }
 function func_rnwe4p() { return "Fruit: Cherry"; }
 function func_1yl7i4() { return "Random number: 338"; }
 function func_zlv4bg() { return "Motivation: Work hard!"; }
