@@ -7,4 +7,4 @@ function func_1n5rry() { return "Color name: blue"; }
 function func_haras4() { return "Quote: 'Life is what happens when you're busy making other plans.'"; }
 function func_wrzutz() { return "Weather: Cloudy"; }
 function func_dn4cd3() { return "Math magic: 0 * 7"; }
-function func_o5farc() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
+function func_3wass8() { return "Motivation: Work hard!"; }
