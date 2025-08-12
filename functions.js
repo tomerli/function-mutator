@@ -1,4 +1,4 @@
-function func_b98tzz() { return "Animal sound: Woof"; }
+function func_wbbzhw() { return "Animal sound: Moo"; }
 function func_mzjk97() { return "Day of week: Tuesday"; }
 function func_dvh1il() { return "Random number: 490"; }
 function func_n1hn1n() { return "Weather: Sunny"; }
