@@ -5,6 +5,6 @@ function func_egp0fk() { return "Animal sound: Baa"; }
 function func_t5vt2k() { return "Current seconds: 23"; }
 function func_zbq8ys() { return "Current minute: 13"; }
 function func_4kkyag() { return "Emoji blast: 😊"; }
-function func_0iemru() { return "Quote: 'Life is what happens when you're busy making other plans.'"; }
+function func_yiyfu2() { return "Color name: yellow"; }
 function func_1qji5y() { return "Color name: green"; }
 function func_jx73hh() { return "Current minute: 9"; }
