@@ -6,5 +6,5 @@ function func_kezgxf() { return "Motivation: Keep going!"; }
 function func_cz6rp3() { return "Animal sound: Woof"; }
 function func_h0gcig() { return "Random number: 551"; }
 function func_a4llj1() { return "Current seconds: 21"; }
-function func_iqsksi() { return "Emoji blast: 😴"; }
+function func_0doxbo() { return "Color name: purple"; }
 function func_j0ijqu() { return "Emoji blast: 🤔"; }
