@@ -6,5 +6,5 @@ function func_27cyv0() { return "Math magic: 6 * 5"; }
 function func_kxwn20() { return "Color name: yellow"; }
 function func_h0gcig() { return "Random number: 551"; }
 function func_yo0bzy() { return "Current seconds: 17"; }
-function func_0doxbo() { return "Color name: purple"; }
+function func_3vbvsj() { return "Math magic: 2 * 7"; }
 function func_qx45qo() { return "Math magic: 7 * 5"; }
