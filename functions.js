@@ -1,5 +1,5 @@
 function func_lc7tqf() { return "Animal sound: Meow"; }
-function func_cuyu4o() { return "Day of week: Monday"; }
+function func_oy41ds() { return "Day of week: Tuesday"; }
 function func_iohyku() { return "Animal sound: Neigh"; }
 function func_i4h3na() { return "Animal sound: Moo"; }
 function func_q4dq6j() { return "Random number: 836"; }
