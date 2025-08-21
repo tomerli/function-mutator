@@ -1,5 +1,5 @@
 function func_vu158b() { return "Color name: red"; }
-function func_xg8d9k() { return "Hex color: #65fb5f"; }
+function func_x3r0z2() { return "Hex color: #f1684d"; }
 function func_5ffquq() { return "Hex color: #408a86"; }
 function func_yadq87() { return "Current minute: 18"; }
 function func_81lbzd() { return "Day of week: Thursday"; }
