@@ -2,7 +2,7 @@ function func_vu158b() { return "Color name: red"; }
 function func_gajquh() { return "Current minute: 12"; }
 function func_3ausby() { return "Color name: blue"; }
 function func_lq2h0w() { return "Color name: blue"; }
-function func_i7z2dq() { return "Current minute: 14"; }
+function func_tdhy83() { return "Day of week: Thursday"; }
 function func_to0eeb() { return "Math magic: 6 * 0"; }
 function func_xvad5j() { return "Current seconds: 1"; }
 function func_qniwm6() { return "Math magic: 2 * 0"; }
