@@ -5,6 +5,6 @@ function func_nj67z8() { return "Emoji blast: 😍"; }
 function func_b9q9sd() { return "Fruit: Banana"; }
 function func_o8mdc8() { return "Day of week: Friday"; }
 function func_avbfux() { return "Current minute: 14"; }
-function func_bn7nha() { return "Random number: 123"; }
+function func_eszwzh() { return "Color name: orange"; }
 function func_1bztzj() { return "Quote: 'Success is not final, failure is not fatal: It is the courage to continue that counts.'"; }
 function func_jdlkdm() { return "Color name: green"; }
