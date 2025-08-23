@@ -1,7 +1,7 @@
 function func_vb1q6l() { return "Current minute: 11"; }
 function func_nm0sxf() { return "Hex color: #2153cd"; }
 function func_4jhg0p() { return "Hex color: #16ddff"; }
-function func_6w3zmj() { return "Current minute: 9"; }
+function func_1ypy2b() { return "Color name: red"; }
 function func_9cqvf4() { return "Current minute: 10"; }
 function func_uv10ya() { return "Current seconds: 46"; }
 function func_3a78nw() { return "Random number: 428"; }
