@@ -1,5 +1,5 @@
 function func_vb1q6l() { return "Current minute: 11"; }
-function func_avxk07() { return "Animal sound: Moo"; }
+function func_mkwr7y() { return "Color name: green"; }
 function func_4jhg0p() { return "Hex color: #16ddff"; }
 function func_1ypy2b() { return "Color name: red"; }
 function func_9cqvf4() { return "Current minute: 10"; }
