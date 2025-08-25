@@ -7,4 +7,4 @@ function func_kjnpd7() { return "Fruit: Cherry"; }
 function func_jh3tqx() { return "Motivation: You can do it!"; }
 function func_2ks7iw() { return "Day of week: Sunday"; }
 function func_b55mz5() { return "Animal sound: Quack"; }
-function func_qs37s1() { return "Animal sound: Woof"; }
+function func_1qxzlf() { return "Color name: purple"; }
