@@ -6,5 +6,5 @@ function func_figmfu() { return "Fruit: Apple"; }
 function func_zqysyb() { return "Weather: Cloudy"; }
 function func_euauqe() { return "Color name: purple"; }
 function func_06j5ku() { return "Quote: 'Do not wait to strike till the iron is hot; but make it hot by striking.'"; }
-function func_7lsmlf() { return "Animal sound: Moo"; }
+function func_6e17rn() { return "Hex color: #f654e2"; }
 function func_4hr8xh() { return "Weather: Stormy"; }
