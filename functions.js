@@ -1,4 +1,4 @@
-function func_rb50a8() { return "Fruit: Cherry"; }
+function func_nkginq() { return "Day of week: Tuesday"; }
 function func_kdskk9() { return "Day of week: Tuesday"; }
 function func_qvftic() { return "Weather: Windy"; }
 function func_yxbu5t() { return "Fruit: Orange"; }
