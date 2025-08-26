@@ -2,7 +2,7 @@ function func_nkginq() { return "Day of week: Tuesday"; }
 function func_kdskk9() { return "Day of week: Tuesday"; }
 function func_qvftic() { return "Weather: Windy"; }
 function func_oh1zqf() { return "Hex color: #067e9b"; }
-function func_figmfu() { return "Fruit: Apple"; }
+function func_7ig03n() { return "Hex color: #c7e8ac"; }
 function func_zqysyb() { return "Weather: Cloudy"; }
 function func_f6vzo0() { return "Animal sound: Moo"; }
 function func_rxvjmm() { return "Weather: Windy"; }
