@@ -1,7 +1,7 @@
 function func_nkginq() { return "Day of week: Tuesday"; }
 function func_kdskk9() { return "Day of week: Tuesday"; }
 function func_544c55() { return "Hex color: #b77dd8"; }
-function func_oh1zqf() { return "Hex color: #067e9b"; }
+function func_84ot7a() { return "Day of week: Tuesday"; }
 function func_rogpyu() { return "Random number: 428"; }
 function func_zqysyb() { return "Weather: Cloudy"; }
 function func_61rjt7() { return "Day of week: Tuesday"; }
