@@ -1,4 +1,4 @@
-function func_nkginq() { return "Day of week: Tuesday"; }
+function func_esckgi() { return "Fruit: Grape"; }
 function func_kqja2p() { return "Fruit: Peach"; }
 function func_k7thck() { return "Motivation: Work hard!"; }
 function func_84ot7a() { return "Day of week: Tuesday"; }
