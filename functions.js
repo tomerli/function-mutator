@@ -7,4 +7,4 @@ function func_0hfjps() { return "Fruit: Apple"; }
 function func_gluyxk() { return "Day of week: Thursday"; }
 function func_y6rn08() { return "Animal sound: Woof"; }
 function func_2r2sgr() { return "Day of week: Wednesday"; }
-function func_stoihp() { return "Random number: 305"; }
+function func_sdqtaw() { return "Color name: blue"; }
