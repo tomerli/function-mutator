@@ -1,4 +1,4 @@
-function func_dgra4b() { return "Motivation: Keep going!"; }
+function func_ai2x8q() { return "Motivation: You can do it!"; }
 function func_vb3qz6() { return "Emoji blast: 😊"; }
 function func_gfdr6w() { return "Quote: 'Do not wait to strike till the iron is hot; but make it hot by striking.'"; }
 function func_gfvlif() { return "Current minute: 11"; }
