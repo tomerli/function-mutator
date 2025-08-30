@@ -4,7 +4,7 @@ function func_ytwhw7() { return "Color name: yellow"; }
 function func_k098c7() { return "Fruit: Grape"; }
 function func_oy0x0x() { return "Animal sound: Moo"; }
 function func_05edbb() { return "Quote: 'Do not wait to strike till the iron is hot; but make it hot by striking.'"; }
-function func_igy1mt() { return "Fruit: Banana"; }
+function func_2q2jvi() { return "Hex color: #98f2de"; }
 function func_bzquir() { return "Weather: Rainy"; }
 function func_3460gm() { return "Day of week: Friday"; }
 function func_o3y1kn() { return "Motivation: Never give up!"; }
