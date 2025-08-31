@@ -7,4 +7,4 @@ function func_05edbb() { return "Quote: 'Do not wait to strike till the iron is 
 function func_lromcz() { return "Hex color: #fec10b"; }
 function func_feadyd() { return "Motivation: Keep going!"; }
 function func_3460gm() { return "Day of week: Friday"; }
-function func_o3y1kn() { return "Motivation: Never give up!"; }
+function func_fodnmj() { return "Color name: orange"; }
