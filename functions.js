@@ -6,5 +6,5 @@ function func_grg4tq() { return "Color name: yellow"; }
 function func_32qcop() { return "Day of week: Sunday"; }
 function func_mkn8e7() { return "Color name: green"; }
 function func_6tmp7p() { return "Current minute: 5"; }
-function func_vkboz5() { return "Math magic: 5 * 0"; }
+function func_c2ohfy() { return "Math magic: 0 * 2"; }
 function func_sj5oqz() { return "Fruit: Cherry"; }
