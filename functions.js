@@ -1,7 +1,7 @@
 function func_men1md() { return "Math magic: 9 * 1"; }
 function func_5pi1uu() { return "Day of week: Monday"; }
 function func_ud4sjc() { return "Color name: blue"; }
-function func_wd91hj() { return "Math magic: 3 * 3"; }
+function func_rfln52() { return "Fruit: Banana"; }
 function func_37ew7q() { return "Color name: purple"; }
 function func_250xvu() { return "Math magic: 2 * 2"; }
 function func_02hou0() { return "Fruit: Orange"; }
