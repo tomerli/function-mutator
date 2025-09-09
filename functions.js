@@ -6,5 +6,5 @@ function func_88sr2w() { return "Motivation: Stay positive!"; }
 function func_a2yxap() { return "Fruit: Apple"; }
 function func_s60fch() { return "Fruit: Banana"; }
 function func_iy738j() { return "Quote: 'The best way to predict the future is to invent it.'"; }
-function func_f4i3wc() { return "Quote: 'Success is not final, failure is not fatal: It is the courage to continue that counts.'"; }
+function func_8r1x6m() { return "Motivation: Work hard!"; }
 function func_bk32dy() { return "Current seconds: 10"; }
