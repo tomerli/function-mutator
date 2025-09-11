@@ -7,4 +7,4 @@ function func_tbdcfm() { return "Current minute: 11"; }
 function func_5atiwd() { return "Current minute: 11"; }
 function func_j7cqll() { return "Fruit: Banana"; }
 function func_l5t6sw() { return "Current seconds: 25"; }
-function func_ao6i8l() { return "Hex color: #90b851"; }
+function func_0n9fgv() { return "Hex color: #3b9ecd"; }
