@@ -6,5 +6,5 @@ function func_kuji2m() { return "Day of week: Thursday"; }
 function func_tbdcfm() { return "Current minute: 11"; }
 function func_5atiwd() { return "Current minute: 11"; }
 function func_lv0umj() { return "Current minute: 18"; }
-function func_kfasxf() { return "Hex color: #7239cd"; }
+function func_o16cfi() { return "Hex color: #b627a7"; }
 function func_0n9fgv() { return "Hex color: #3b9ecd"; }
