@@ -6,5 +6,5 @@ function func_8i9clr() { return "Current seconds: 24"; }
 function func_tbdcfm() { return "Current minute: 11"; }
 function func_wxjbgj() { return "Math magic: 6 * 6"; }
 function func_xcr1n0() { return "Quote: 'The best way to predict the future is to invent it.'"; }
-function func_k0c5mh() { return "Emoji blast: 😒"; }
+function func_ky9etm() { return "Hex color: #5b2e09"; }
 function func_wghy8q() { return "Animal sound: Quack"; }
