@@ -1,6 +1,6 @@
 function func_8x76w2() { return "Hex color: #612264"; }
 function func_ak5l56() { return "Math magic: 8 * 0"; }
-function func_amp13y() { return "Animal sound: Baa"; }
+function func_qh5eyp() { return "Color name: yellow"; }
 function func_zpwan4() { return "Emoji blast: 😊"; }
 function func_wbnhsk() { return "Hex color: #5c0018"; }
 function func_tbdcfm() { return "Current minute: 11"; }
