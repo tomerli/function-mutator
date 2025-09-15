@@ -6,5 +6,5 @@ function func_4krckf() { return "Random number: 62"; }
 function func_br7gdr() { return "Current seconds: 57"; }
 function func_kv5gy1() { return "Color name: red"; }
 function func_hko177() { return "Math magic: 4 * 5"; }
-function func_vai270() { return "Hex color: #f8a729"; }
+function func_su8k31() { return "Fruit: Apple"; }
 function func_6mlu7u() { return "Fruit: Apple"; }
