@@ -6,5 +6,5 @@ function func_4krckf() { return "Random number: 62"; }
 function func_ycejyt() { return "Fruit: Apple"; }
 function func_kv5gy1() { return "Color name: red"; }
 function func_hko177() { return "Math magic: 4 * 5"; }
-function func_n4rp2d() { return "Color name: red"; }
+function func_fgnjvi() { return "Fruit: Orange"; }
 function func_6mlu7u() { return "Fruit: Apple"; }
