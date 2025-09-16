@@ -5,6 +5,6 @@ function func_ww39jk() { return "Motivation: Dream big!"; }
 function func_4krckf() { return "Random number: 62"; }
 function func_ycejyt() { return "Fruit: Apple"; }
 function func_kv5gy1() { return "Color name: red"; }
-function func_sbnfiz() { return "Day of week: Tuesday"; }
+function func_a6brd6() { return "Color name: orange"; }
 function func_fgnjvi() { return "Fruit: Orange"; }
 function func_6mlu7u() { return "Fruit: Apple"; }
