@@ -7,4 +7,4 @@ function func_ycejyt() { return "Fruit: Apple"; }
 function func_kv5gy1() { return "Color name: red"; }
 function func_a6brd6() { return "Color name: orange"; }
 function func_fgnjvi() { return "Fruit: Orange"; }
-function func_6mlu7u() { return "Fruit: Apple"; }
+function func_a93jvf() { return "Hex color: #cb56b8"; }
