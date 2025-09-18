@@ -5,6 +5,6 @@ function func_ao0vaj() { return "Hex color: #c66baa"; }
 function func_gw5ir8() { return "Current seconds: 10"; }
 function func_hyzyw3() { return "Math magic: 1 * 6"; }
 function func_a5fsy9() { return "Emoji blast: 😒"; }
-function func_72v31i() { return "Math magic: 4 * 0"; }
+function func_ekykr8() { return "Color name: purple"; }
 function func_15u0ik() { return "Fruit: Orange"; }
 function func_3mk599() { return "Motivation: Keep going!"; }
