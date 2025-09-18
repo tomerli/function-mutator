@@ -1,4 +1,4 @@
-function func_z4kmbl() { return "Day of week: Thursday"; }
+function func_n3o1s1() { return "Fruit: Cherry"; }
 function func_mvid7l() { return "Day of week: Wednesday"; }
 function func_ynx6r5() { return "Current seconds: 59"; }
 function func_ao0vaj() { return "Hex color: #c66baa"; }
