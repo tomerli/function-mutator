@@ -7,4 +7,4 @@ function func_5vmjya() { return "Hex color: #0ca51a"; }
 function func_z1chmy() { return "Emoji blast: 😒"; }
 function func_6gz89e() { return "Hex color: #127a8c"; }
 function func_vqamrq() { return "Day of week: Sunday"; }
-function func_dj7w9n() { return "Fruit: Apple"; }
+function func_kgaw28() { return "Emoji blast: 😒"; }
