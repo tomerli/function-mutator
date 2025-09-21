@@ -1,4 +1,4 @@
-function func_rs8vuu() { return "Hex color: #afcfe5"; }
+function func_gxutio() { return "Color name: green"; }
 function func_x27tfs() { return "Fruit: Banana"; }
 function func_iwdjke() { return "Animal sound: Meow"; }
 function func_2pf88b() { return "Emoji blast: 😂"; }
