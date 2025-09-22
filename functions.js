@@ -5,6 +5,6 @@ function func_2pf88b() { return "Emoji blast: 😂"; }
 function func_tqgsh1() { return "Fruit: Peach"; }
 function func_0hn14s() { return "Day of week: Monday"; }
 function func_9s35m2() { return "Current minute: 14"; }
-function func_pgqwk2() { return "Emoji blast: 😴"; }
+function func_p3sgvd() { return "Hex color: #c376a9"; }
 function func_alx4tw() { return "Current minute: 11"; }
 function func_sow74n() { return "Current minute: 11"; }
