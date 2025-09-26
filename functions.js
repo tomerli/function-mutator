@@ -5,6 +5,6 @@ function func_ours17() { return "Weather: Rainy"; }
 function func_30m7py() { return "Random number: 7"; }
 function func_tebr45() { return "Current seconds: 29"; }
 function func_nj6y16() { return "Current seconds: 21"; }
-function func_1ot91z() { return "Day of week: Friday"; }
+function func_6c3zba() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
 function func_cfoner() { return "Math magic: 5 * 2"; }
 function func_87zr5g() { return "Fruit: Banana"; }
