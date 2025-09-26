@@ -6,5 +6,5 @@ function func_30m7py() { return "Random number: 7"; }
 function func_77hkpj() { return "Quote: 'The time is always right to do what is right.'"; }
 function func_nj6y16() { return "Current seconds: 21"; }
 function func_6c3zba() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
-function func_cfoner() { return "Math magic: 5 * 2"; }
+function func_rvl84o() { return "Motivation: You can do it!"; }
 function func_87zr5g() { return "Fruit: Banana"; }
