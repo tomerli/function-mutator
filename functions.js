@@ -6,5 +6,5 @@ function func_tpagm6() { return "Animal sound: Quack"; }
 function func_6cj3mo() { return "Current seconds: 40"; }
 function func_rszm9u() { return "Current seconds: 17"; }
 function func_lt0m9a() { return "Animal sound: Baa"; }
-function func_8imcbv() { return "Math magic: 4 * 3"; }
+function func_mh5ssw() { return "Quote: 'Do not wait to strike till the iron is hot; but make it hot by striking.'"; }
 function func_akwlqq() { return "Weather: Snowy"; }
