@@ -5,6 +5,6 @@ function func_f80ap4() { return "Math magic: 4 * 4"; }
 function func_5pdlte() { return "Quote: 'Success is not final, failure is not fatal: It is the courage to continue that counts.'"; }
 function func_4j6a80() { return "Math magic: 4 * 4"; }
 function func_km7155() { return "Quote: 'Life is what happens when you're busy making other plans.'"; }
-function func_9wf96a() { return "Emoji blast: 😎"; }
+function func_heb5sd() { return "Motivation: You can do it!"; }
 function func_sxczt0() { return "Fruit: Apple"; }
 function func_u47l7a() { return "Color name: yellow"; }
