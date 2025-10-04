@@ -3,7 +3,7 @@ function func_w5n5rw() { return "Emoji blast: 🥺"; }
 function func_s9ular() { return "Math magic: 2 * 6"; }
 function func_ws0kjl() { return "Current seconds: 59"; }
 function func_t8ogfv() { return "Emoji blast: 😎"; }
-function func_j3xx30() { return "Emoji blast: 😍"; }
+function func_veuyfm() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
 function func_fnvc4k() { return "Random number: 756"; }
 function func_vs1ssv() { return "Day of week: Saturday"; }
 function func_sdkdtw() { return "Current minute: 16"; }
