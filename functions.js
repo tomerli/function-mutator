@@ -3,7 +3,7 @@ function func_an4yzw() { return "Hex color: #7c9893"; }
 function func_9hx469() { return "Motivation: Work hard!"; }
 function func_ws0kjl() { return "Current seconds: 59"; }
 function func_5lansw() { return "Random number: 865"; }
-function func_aa5g4k() { return "Fruit: Orange"; }
+function func_eu33xh() { return "Color name: green"; }
 function func_f4vnn7() { return "Emoji blast: 🥺"; }
 function func_mca5pl() { return "Current minute: 11"; }
 function func_sdkdtw() { return "Current minute: 16"; }
