@@ -6,5 +6,5 @@ function func_q3u3ct() { return "Day of week: Monday"; }
 function func_i509qf() { return "Motivation: You can do it!"; }
 function func_yl6ezo() { return "Fruit: Cherry"; }
 function func_ravc6y() { return "Weather: Stormy"; }
-function func_6ag8eh() { return "Motivation: You can do it!"; }
+function func_hccvvj() { return "Hex color: #86c647"; }
 function func_46mxzi() { return "Fruit: Grape"; }
