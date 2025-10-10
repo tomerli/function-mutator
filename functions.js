@@ -1,4 +1,4 @@
-function func_whzgf2() { return "Hex color: #c84bc3"; }
+function func_k1o0gm() { return "Color name: purple"; }
 function func_tmlycf() { return "Math magic: 6 * 2"; }
 function func_4ihbnw() { return "Animal sound: Meow"; }
 function func_jt4me0() { return "Fruit: Apple"; }
