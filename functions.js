@@ -1,4 +1,4 @@
-function func_v9t093() { return "Fruit: Orange"; }
+function func_3g8tbg() { return "Emoji blast: 😍"; }
 function func_pydy6c() { return "Emoji blast: 😎"; }
 function func_gftd3k() { return "Color name: red"; }
 function func_jt4me0() { return "Fruit: Apple"; }
