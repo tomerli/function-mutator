@@ -1,5 +1,5 @@
 function func_s5z0t0() { return "Animal sound: Quack"; }
-function func_lj9wjj() { return "Weather: Windy"; }
+function func_itsn9g() { return "Fruit: Apple"; }
 function func_ca5xs6() { return "Weather: Stormy"; }
 function func_eym5xd() { return "Current minute: 14"; }
 function func_ls8js9() { return "Quote: 'Do not wait to strike till the iron is hot; but make it hot by striking.'"; }
