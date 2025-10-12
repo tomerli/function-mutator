@@ -1,4 +1,4 @@
-function func_9glt3j() { return "Hex color: #c65614"; }
+function func_pn0j6x() { return "Fruit: Apple"; }
 function func_egqtb7() { return "Day of week: Sunday"; }
 function func_28esom() { return "Fruit: Apple"; }
 function func_5keuuf() { return "Color name: orange"; }
