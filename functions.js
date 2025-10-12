@@ -1,5 +1,5 @@
 function func_9glt3j() { return "Hex color: #c65614"; }
-function func_itsn9g() { return "Fruit: Apple"; }
+function func_egqtb7() { return "Day of week: Sunday"; }
 function func_28esom() { return "Fruit: Apple"; }
 function func_mns7p4() { return "Math magic: 5 * 0"; }
 function func_htzl17() { return "Hex color: #1bc872"; }
