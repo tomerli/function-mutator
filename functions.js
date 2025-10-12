@@ -6,5 +6,5 @@ function func_htzl17() { return "Hex color: #1bc872"; }
 function func_w3pc8p() { return "Quote: 'Life is what happens when you're busy making other plans.'"; }
 function func_evwlp7() { return "Random number: 356"; }
 function func_odihcm() { return "Motivation: Dream big!"; }
-function func_tuvqka() { return "Animal sound: Quack"; }
+function func_8lncxv() { return "Color name: green"; }
 function func_vnmg57() { return "Fruit: Orange"; }
