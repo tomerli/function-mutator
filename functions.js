@@ -1,4 +1,4 @@
-function func_te25x4() { return "Day of week: Monday"; }
+function func_c4brg7() { return "Color name: yellow"; }
 function func_d67ij1() { return "Math magic: 2 * 6"; }
 function func_y2pq7e() { return "Weather: Windy"; }
 function func_thqhhs() { return "Math magic: 9 * 2"; }
