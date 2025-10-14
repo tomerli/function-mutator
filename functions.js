@@ -2,7 +2,7 @@ function func_h8zv6r() { return "Fruit: Peach"; }
 function func_d67ij1() { return "Math magic: 2 * 6"; }
 function func_i553pr() { return "Day of week: Tuesday"; }
 function func_4igd40() { return "Motivation: Keep going!"; }
-function func_ytwfir() { return "Animal sound: Quack"; }
+function func_kx4xab() { return "Animal sound: Neigh"; }
 function func_pssevo() { return "Current minute: 9"; }
 function func_2um73x() { return "Math magic: 3 * 1"; }
 function func_fi25dl() { return "Random number: 195"; }
