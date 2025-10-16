@@ -6,5 +6,5 @@ function func_71yvq7() { return "Color name: green"; }
 function func_3jfki7() { return "Fruit: Peach"; }
 function func_kdc2xy() { return "Animal sound: Neigh"; }
 function func_l110kv() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
-function func_axi5ye() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
+function func_75z4yz() { return "Fruit: Grape"; }
 function func_u9harc() { return "Fruit: Grape"; }
