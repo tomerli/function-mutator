@@ -5,6 +5,6 @@ function func_71t2gf() { return "Fruit: Cherry"; }
 function func_um5i24() { return "Fruit: Banana"; }
 function func_0pp7uh() { return "Fruit: Grape"; }
 function func_siwe9d() { return "Hex color: #c885dd"; }
-function func_7vicat() { return "Random number: 770"; }
+function func_4gqst7() { return "Animal sound: Neigh"; }
 function func_r8ct0f() { return "Animal sound: Baa"; }
 function func_yf8wcf() { return "Fruit: Grape"; }
