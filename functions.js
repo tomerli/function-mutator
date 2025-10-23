@@ -1,4 +1,4 @@
-function func_uwm50j() { return "Weather: Stormy"; }
+function func_4prrfo() { return "Fruit: Orange"; }
 function func_nq97cj() { return "Current minute: 20"; }
 function func_nlz5kk() { return "Weather: Stormy"; }
 function func_87v7ap() { return "Fruit: Peach"; }
