@@ -3,7 +3,7 @@ function func_wr4tzw() { return "Emoji blast: 🥺"; }
 function func_w09a43() { return "Motivation: You can do it!"; }
 function func_yu1bdg() { return "Current seconds: 42"; }
 function func_ibj1fb() { return "Quote: 'If you can dream it, you can do it.'"; }
-function func_64yyia() { return "Animal sound: Neigh"; }
+function func_nvzbrr() { return "Color name: yellow"; }
 function func_5dlsoj() { return "Animal sound: Baa"; }
 function func_yfmr0a() { return "Hex color: #bcb110"; }
 function func_6tjy9v() { return "Animal sound: Neigh"; }
