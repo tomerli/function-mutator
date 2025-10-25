@@ -6,5 +6,5 @@ function func_tplhgm() { return "Weather: Sunny"; }
 function func_nvzbrr() { return "Color name: yellow"; }
 function func_5dlsoj() { return "Animal sound: Baa"; }
 function func_2k129n() { return "Color name: orange"; }
-function func_wjaft8() { return "Fruit: Orange"; }
+function func_urwm11() { return "Fruit: Orange"; }
 function func_x9rwjd() { return "Color name: red"; }
