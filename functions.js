@@ -1,5 +1,5 @@
 function func_8xg9u8() { return "Motivation: Stay positive!"; }
-function func_jojpu8() { return "Quote: 'The best way to predict the future is to invent it.'"; }
+function func_x5jupl() { return "Quote: 'The only way to do great work is to love what you do.'"; }
 function func_of461j() { return "Emoji blast: 😒"; }
 function func_8ouhw3() { return "Fruit: Cherry"; }
 function func_g6wqi3() { return "Emoji blast: 😍"; }
