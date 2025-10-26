@@ -5,6 +5,6 @@ function func_8ouhw3() { return "Fruit: Cherry"; }
 function func_g6wqi3() { return "Emoji blast: 😍"; }
 function func_o7poor() { return "Weather: Sunny"; }
 function func_8hf4id() { return "Current seconds: 9"; }
-function func_9m38sb() { return "Color name: orange"; }
+function func_8q90wz() { return "Day of week: Sunday"; }
 function func_uwst04() { return "Color name: purple"; }
 function func_dkdxy3() { return "Hex color: #9fe869"; }
