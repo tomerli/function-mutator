@@ -7,4 +7,4 @@ function func_ezeyma() { return "Current seconds: 59"; }
 function func_qkrimi() { return "Emoji blast: 😂"; }
 function func_qgcvu3() { return "Hex color: #f909d1"; }
 function func_uwst04() { return "Color name: purple"; }
-function func_dkdxy3() { return "Hex color: #9fe869"; }
+function func_tbv2nc() { return "Color name: yellow"; }
