@@ -3,7 +3,7 @@ function func_aw3lhm() { return "Fruit: Orange"; }
 function func_uxiejo() { return "Random number: 466"; }
 function func_4ijh5l() { return "Quote: 'If you can dream it, you can do it.'"; }
 function func_fvhekp() { return "Current seconds: 13"; }
-function func_lpkihl() { return "Motivation: Never give up!"; }
+function func_xflmf7() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
 function func_teecp5() { return "Color name: purple"; }
 function func_la7p1c() { return "Current minute: 10"; }
 function func_0avhcv() { return "Color name: green"; }
