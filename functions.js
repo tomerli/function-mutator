@@ -6,5 +6,5 @@ function func_fvhekp() { return "Current seconds: 13"; }
 function func_xflmf7() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
 function func_teecp5() { return "Color name: purple"; }
 function func_la7p1c() { return "Current minute: 10"; }
-function func_fq28su() { return "Quote: 'The time is always right to do what is right.'"; }
+function func_0rq0sk() { return "Day of week: Sunday"; }
 function func_3u0rgl() { return "Color name: green"; }
