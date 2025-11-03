@@ -1,5 +1,5 @@
 function func_4kbeut() { return "Motivation: Work hard!"; }
-function func_mwisih() { return "Motivation: You can do it!"; }
+function func_6pstoo() { return "Color name: purple"; }
 function func_2u3u2a() { return "Emoji blast: 😊"; }
 function func_3b2myz() { return "Math magic: 8 * 2"; }
 function func_ufo29y() { return "Current minute: 14"; }
