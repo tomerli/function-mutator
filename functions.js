@@ -6,5 +6,5 @@ function func_jzg123() { return "Weather: Sunny"; }
 function func_unvy5k() { return "Motivation: Keep going!"; }
 function func_bngpcc() { return "Quote: 'The best way to predict the future is to invent it.'"; }
 function func_8c05cv() { return "Current minute: 18"; }
-function func_lw70ss() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
+function func_ijn6bc() { return "Quote: 'The time is always right to do what is right.'"; }
 function func_yd0pht() { return "Random number: 392"; }
