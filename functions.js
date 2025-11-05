@@ -6,5 +6,5 @@ function func_2yg7zr() { return "Weather: Stormy"; }
 function func_6f39n9() { return "Day of week: Wednesday"; }
 function func_bngpcc() { return "Quote: 'The best way to predict the future is to invent it.'"; }
 function func_8c05cv() { return "Current minute: 18"; }
-function func_24r3i5() { return "Quote: 'The only way to do great work is to love what you do.'"; }
+function func_lw70ss() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
 function func_yd0pht() { return "Random number: 392"; }
