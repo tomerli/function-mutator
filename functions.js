@@ -1,4 +1,4 @@
-function func_af33o5() { return "Random number: 469"; }
+function func_taifeg() { return "Hex color: #102099"; }
 function func_pmv0aw() { return "Day of week: Monday"; }
 function func_po4axj() { return "Animal sound: Baa"; }
 function func_hu34zk() { return "Random number: 242"; }
