@@ -1,7 +1,7 @@
 function func_w8c44u() { return "Math magic: 9 * 8"; }
 function func_766rja() { return "Current seconds: 43"; }
 function func_cwavsa() { return "Fruit: Grape"; }
-function func_qzq8be() { return "Math magic: 2 * 5"; }
+function func_rl6q6g() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
 function func_ygx1kn() { return "Motivation: Work hard!"; }
 function func_51dscl() { return "Math magic: 2 * 4"; }
 function func_kjqtyv() { return "Animal sound: Quack"; }
