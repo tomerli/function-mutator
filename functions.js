@@ -1,7 +1,7 @@
 function func_hhjh3k() { return "Animal sound: Woof"; }
 function func_yeocwo() { return "Animal sound: Neigh"; }
 function func_cube61() { return "Color name: yellow"; }
-function func_jtxure() { return "Day of week: Monday"; }
+function func_fj6n7q() { return "Color name: purple"; }
 function func_h9eucg() { return "Math magic: 7 * 1"; }
 function func_s6034u() { return "Hex color: #82df08"; }
 function func_ddwtn3() { return "Current seconds: 30"; }
