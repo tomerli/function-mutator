@@ -7,4 +7,4 @@ function func_om1w02() { return "Current seconds: 30"; }
 function func_ay8iae() { return "Quote: 'The best way to predict the future is to invent it.'"; }
 function func_qdw5dv() { return "Current minute: 7"; }
 function func_du9nnw() { return "Color name: blue"; }
-function func_gm6rhc() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
+function func_wmmtdq() { return "Animal sound: Woof"; }
