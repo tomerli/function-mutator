@@ -1,5 +1,5 @@
 function func_0ml8op() { return "Emoji blast: 😊"; }
-function func_yeocwo() { return "Animal sound: Neigh"; }
+function func_sotrr3() { return "Animal sound: Meow"; }
 function func_481003() { return "Animal sound: Baa"; }
 function func_oagpi8() { return "Random number: 2"; }
 function func_52dky1() { return "Fruit: Cherry"; }
