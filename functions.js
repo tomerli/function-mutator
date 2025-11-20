@@ -7,4 +7,4 @@ function func_80le14() { return "Weather: Rainy"; }
 function func_i7bf5d() { return "Hex color: #b25213"; }
 function func_usjlhc() { return "Color name: blue"; }
 function func_hhvdf9() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
-function func_g18sjo() { return "Color name: purple"; }
+function func_k7w8x1() { return "Animal sound: Neigh"; }
