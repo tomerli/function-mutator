@@ -1,4 +1,4 @@
-function func_i3ltds() { return "Fruit: Apple"; }
+function func_ouczl4() { return "Color name: blue"; }
 function func_m5m5u2() { return "Motivation: Work hard!"; }
 function func_8failu() { return "Quote: 'The time is always right to do what is right.'"; }
 function func_h3f2vw() { return "Quote: 'The only way to do great work is to love what you do.'"; }
