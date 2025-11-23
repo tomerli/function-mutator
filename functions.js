@@ -7,4 +7,4 @@ function func_jczu6i() { return "Day of week: Sunday"; }
 function func_c1ijq0() { return "Day of week: Saturday"; }
 function func_amqub1() { return "Current seconds: 9"; }
 function func_71v8ni() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
-function func_mpf51a() { return "Fruit: Peach"; }
+function func_hh5ne1() { return "Color name: orange"; }
