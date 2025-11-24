@@ -6,5 +6,5 @@ function func_d4mbvp() { return "Fruit: Apple"; }
 function func_9jereb() { return "Emoji blast: 😒"; }
 function func_q5slwt() { return "Weather: Snowy"; }
 function func_4e9par() { return "Day of week: Monday"; }
-function func_7uh6om() { return "Weather: Sunny"; }
+function func_7dfpmo() { return "Emoji blast: 😴"; }
 function func_hh5ne1() { return "Color name: orange"; }
