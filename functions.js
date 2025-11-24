@@ -6,5 +6,5 @@ function func_yu1e8e() { return "Current minute: 14"; }
 function func_9jereb() { return "Emoji blast: 😒"; }
 function func_rus1zf() { return "Emoji blast: 🤔"; }
 function func_az84qt() { return "Fruit: Apple"; }
-function func_71v8ni() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
+function func_brfm2a() { return "Fruit: Cherry"; }
 function func_hh5ne1() { return "Color name: orange"; }
