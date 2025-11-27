@@ -4,7 +4,7 @@ function func_kyvnfs() { return "Hex color: #d1b4b4"; }
 function func_jxslzz() { return "Quote: 'The best way to predict the future is to invent it.'"; }
 function func_0y2ofe() { return "Random number: 663"; }
 function func_dqmqzm() { return "Weather: Cloudy"; }
-function func_pi173d() { return "Color name: green"; }
+function func_kat3t9() { return "Quote: 'The best way to predict the future is to invent it.'"; }
 function func_8hpn7o() { return "Day of week: Thursday"; }
 function func_8x9vlu() { return "Current seconds: 3"; }
 function func_h8fulm() { return "Fruit: Orange"; }
