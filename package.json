@@ -8,7 +8,7 @@
     "mutate": "node mutate.js"
   },
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.22.0"
   },
   "keywords": [
     "mutation",
