@@ -1,6 +1,6 @@
 function func_qp985o() { return "Motivation: Never give up!"; }
 function func_4heghs() { return "Animal sound: Meow"; }
-function func_bpnw3l() { return "Quote: 'The only way to do great work is to love what you do.'"; }
+function func_8dnfz7() { return "Motivation: Work hard!"; }
 function func_t18on6() { return "Motivation: Dream big!"; }
 function func_wt2vx0() { return "Emoji blast: 😒"; }
 function func_kjlgy6() { return "Color name: green"; }
