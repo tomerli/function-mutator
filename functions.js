@@ -1,4 +1,4 @@
-function func_st33si() { return "Quote: 'Success is not final, failure is not fatal: It is the courage to continue that counts.'"; }
+function func_j81f4h() { return "Quote: 'Life is what happens when you're busy making other plans.'"; }
 function func_yjwdor() { return "Current seconds: 7"; }
 function func_kl5a7j() { return "Quote: 'If you can dream it, you can do it.'"; }
 function func_ujc30k() { return "Current seconds: 11"; }
