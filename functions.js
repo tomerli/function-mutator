@@ -1,4 +1,4 @@
-function func_lxfq72() { return "Day of week: Tuesday"; }
+function func_r2bbh7() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
 function func_s53ot4() { return "Color name: orange"; }
 function func_ug1r85() { return "Current minute: 12"; }
 function func_t9icue() { return "Random number: 994"; }
