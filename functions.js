@@ -1,4 +1,4 @@
-function func_5pzruh() { return "Hex color: #9e45ce"; }
+function func_7qz4ga() { return "Math magic: 1 * 3"; }
 function func_s53ot4() { return "Color name: orange"; }
 function func_cpm89f() { return "Day of week: Wednesday"; }
 function func_36comz() { return "Math magic: 0 * 0"; }
