@@ -1,4 +1,4 @@
-function func_jj2p3o() { return "Fruit: Banana"; }
+function func_geq4zl() { return "Fruit: Orange"; }
 function func_ijku7a() { return "Hex color: #224dbe"; }
 function func_h2h8as() { return "Animal sound: Baa"; }
 function func_36comz() { return "Math magic: 0 * 0"; }
