@@ -1,5 +1,5 @@
 function func_0savwn() { return "Current seconds: 54"; }
-function func_3glham() { return "Animal sound: Meow"; }
+function func_zdqgdd() { return "Animal sound: Woof"; }
 function func_2usqgp() { return "Fruit: Peach"; }
 function func_3gv0z4() { return "Math magic: 0 * 9"; }
 function func_p1swuo() { return "Math magic: 5 * 9"; }
