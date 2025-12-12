@@ -1,4 +1,4 @@
-function func_geq4zl() { return "Fruit: Orange"; }
+function func_l1sz1d() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
 function func_3glham() { return "Animal sound: Meow"; }
 function func_2usqgp() { return "Fruit: Peach"; }
 function func_3gv0z4() { return "Math magic: 0 * 9"; }
