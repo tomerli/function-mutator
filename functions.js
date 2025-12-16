@@ -6,5 +6,5 @@ function func_lry0th() { return "Math magic: 8 * 7"; }
 function func_kioapl() { return "Day of week: Tuesday"; }
 function func_zy02s9() { return "Quote: 'The time is always right to do what is right.'"; }
 function func_um1edm() { return "Fruit: Banana"; }
-function func_5jgjhk() { return "Color name: yellow"; }
+function func_56aua3() { return "Animal sound: Neigh"; }
 function func_2e06zf() { return "Random number: 39"; }
