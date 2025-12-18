@@ -3,7 +3,7 @@ function func_kbiao3() { return "Fruit: Banana"; }
 function func_yoofl6() { return "Fruit: Apple"; }
 function func_e49lus() { return "Color name: orange"; }
 function func_jutyll() { return "Current seconds: 2"; }
-function func_3z7frp() { return "Motivation: Work hard!"; }
+function func_jafr6z() { return "Quote: 'The only way to do great work is to love what you do.'"; }
 function func_09wy9f() { return "Weather: Snowy"; }
 function func_ycelhn() { return "Random number: 626"; }
 function func_48cuh1() { return "Emoji blast: 😴"; }
