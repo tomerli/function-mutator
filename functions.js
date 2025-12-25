@@ -1,7 +1,7 @@
 function func_9oby5o() { return "Current minute: 17"; }
 function func_6k29s3() { return "Quote: 'Do not wait to strike till the iron is hot; but make it hot by striking.'"; }
 function func_hl7fpe() { return "Motivation: Dream big!"; }
-function func_bhr1t9() { return "Fruit: Banana"; }
+function func_5ocj9k() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
 function func_ya1j0b() { return "Hex color: #f91ed5"; }
 function func_aws9au() { return "Current seconds: 12"; }
 function func_8ld7nu() { return "Animal sound: Woof"; }
