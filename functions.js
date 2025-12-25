@@ -5,6 +5,6 @@ function func_bhr1t9() { return "Fruit: Banana"; }
 function func_ya1j0b() { return "Hex color: #f91ed5"; }
 function func_aws9au() { return "Current seconds: 12"; }
 function func_f528rl() { return "Emoji blast: 😊"; }
-function func_mw9x62() { return "Animal sound: Woof"; }
+function func_pv42ne() { return "Animal sound: Moo"; }
 function func_cfzjql() { return "Current seconds: 15"; }
 function func_dm4kbv() { return "Fruit: Apple"; }
