@@ -7,4 +7,4 @@ function func_tx8wcw() { return "Current seconds: 33"; }
 function func_zucr3q() { return "Fruit: Banana"; }
 function func_6kplxi() { return "Animal sound: Neigh"; }
 function func_tp2ggy() { return "Quote: 'The time is always right to do what is right.'"; }
-function func_nubmdz() { return "Hex color: #13beb3"; }
+function func_4u6w0s() { return "Hex color: #3bd4a8"; }
