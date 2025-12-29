@@ -7,4 +7,4 @@ function func_ytg72v() { return "Animal sound: Meow"; }
 function func_9mgsgi() { return "Color name: purple"; }
 function func_r8w5ln() { return "Current minute: 33"; }
 function func_vi1puz() { return "Color name: red"; }
-function func_adzpld() { return "Quote: 'The time is always right to do what is right.'"; }
+function func_v8tpug() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
