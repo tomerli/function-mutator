@@ -7,4 +7,4 @@ function func_gjvihw() { return "Color name: green"; }
 function func_t1dtgu() { return "Quote: 'Life is what happens when you're busy making other plans.'"; }
 function func_gnxivs() { return "Weather: Snowy"; }
 function func_fw3raz() { return "Animal sound: Moo"; }
-function func_f3xsms() { return "Animal sound: Meow"; }
+function func_d5y53l() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
