@@ -4,7 +4,7 @@ function func_qnx01g() { return "Day of week: Wednesday"; }
 function func_qnjebd() { return "Hex color: #a5086d"; }
 function func_mkpjav() { return "Fruit: Orange"; }
 function func_yos9x5() { return "Color name: blue"; }
-function func_xhvxg9() { return "Random number: 440"; }
+function func_wpm4vh() { return "Color name: yellow"; }
 function func_gnxivs() { return "Weather: Snowy"; }
 function func_0hi53j() { return "Hex color: #120a70"; }
 function func_31g6b5() { return "Random number: 369"; }
