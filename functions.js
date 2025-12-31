@@ -3,7 +3,7 @@ function func_igz6xq() { return "Motivation: Stay positive!"; }
 function func_q6xw2j() { return "Motivation: Keep going!"; }
 function func_wdawzx() { return "Current seconds: 7"; }
 function func_f80jyd() { return "Fruit: Grape"; }
-function func_cwp7qb() { return "Animal sound: Moo"; }
+function func_yos9x5() { return "Color name: blue"; }
 function func_xhvxg9() { return "Random number: 440"; }
 function func_gnxivs() { return "Weather: Snowy"; }
 function func_698obd() { return "Random number: 845"; }
