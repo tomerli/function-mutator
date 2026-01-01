@@ -6,5 +6,5 @@ function func_becl5a() { return "Day of week: Thursday"; }
 function func_3vwoly() { return "Animal sound: Neigh"; }
 function func_6d7xno() { return "Day of week: Thursday"; }
 function func_ud3rh3() { return "Emoji blast: 🥺"; }
-function func_0hi53j() { return "Hex color: #120a70"; }
+function func_02nq90() { return "Color name: yellow"; }
 function func_31g6b5() { return "Random number: 369"; }
