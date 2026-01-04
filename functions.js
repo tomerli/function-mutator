@@ -5,6 +5,6 @@ function func_lm20yq() { return "Hex color: #9c1e81"; }
 function func_ouddfx() { return "Day of week: Saturday"; }
 function func_2huxxz() { return "Color name: red"; }
 function func_c8etdq() { return "Current seconds: 23"; }
-function func_xgjrmd() { return "Random number: 532"; }
+function func_pfqwn8() { return "Animal sound: Woof"; }
 function func_gakkw5() { return "Animal sound: Moo"; }
 function func_9esbm6() { return "Current minute: 10"; }
