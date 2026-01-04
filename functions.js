@@ -1,6 +1,6 @@
 function func_j4qusp() { return "Animal sound: Meow"; }
 function func_s6ow3c() { return "Day of week: Sunday"; }
-function func_0ilcjt() { return "Motivation: Dream big!"; }
+function func_aul4g0() { return "Quote: 'The only way to do great work is to love what you do.'"; }
 function func_hjrf4o() { return "Color name: yellow"; }
 function func_2ho48l() { return "Quote: 'Do not wait to strike till the iron is hot; but make it hot by striking.'"; }
 function func_2huxxz() { return "Color name: red"; }
