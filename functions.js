@@ -5,6 +5,6 @@ function func_rajrkv() { return "Quote: 'The only way to do great work is to lov
 function func_sdspgs() { return "Color name: red"; }
 function func_2q797e() { return "Fruit: Banana"; }
 function func_ujztjv() { return "Hex color: #2b6db9"; }
-function func_45kx1m() { return "Motivation: Never give up!"; }
+function func_tymnzy() { return "Quote: 'Success is not final, failure is not fatal: It is the courage to continue that counts.'"; }
 function func_m41xyh() { return "Emoji blast: 😂"; }
 function func_w9fkqx() { return "Math magic: 6 * 5"; }
