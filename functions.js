@@ -7,4 +7,4 @@ function func_kyxt0l() { return "Math magic: 4 * 3"; }
 function func_q3xiwx() { return "Day of week: Thursday"; }
 function func_a38vm4() { return "Current minute: 14"; }
 function func_vvji7i() { return "Color name: red"; }
-function func_ff8w3d() { return "Math magic: 0 * 1"; }
+function func_wkxzz5() { return "Day of week: Thursday"; }
