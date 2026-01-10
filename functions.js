@@ -5,6 +5,6 @@ function func_lrq6o8() { return "Fruit: Orange"; }
 function func_zfjrsq() { return "Math magic: 0 * 7"; }
 function func_b3pvoe() { return "Fruit: Orange"; }
 function func_13boik() { return "Motivation: You can do it!"; }
-function func_z7d18v() { return "Day of week: Friday"; }
+function func_fgjitk() { return "Quote: 'Do not wait to strike till the iron is hot; but make it hot by striking.'"; }
 function func_xu39eg() { return "Fruit: Orange"; }
 function func_2oykk0() { return "Weather: Sunny"; }
