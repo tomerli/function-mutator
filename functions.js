@@ -7,4 +7,4 @@ function func_b3pvoe() { return "Fruit: Orange"; }
 function func_o35wdl() { return "Random number: 808"; }
 function func_iqx4rh() { return "Random number: 836"; }
 function func_hmqtn1() { return "Hex color: #7d677b"; }
-function func_bn0eq8() { return "Random number: 418"; }
+function func_ze3ty4() { return "Color name: red"; }
