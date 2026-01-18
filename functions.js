@@ -4,7 +4,7 @@ function func_qaf1hm() { return "Quote: 'Life is what happens when you're busy m
 function func_lllegl() { return "Math magic: 0 * 5"; }
 function func_xlfe52() { return "Motivation: Dream big!"; }
 function func_y5t8ta() { return "Motivation: Dream big!"; }
-function func_23fmqg() { return "Quote: 'The best way to predict the future is to invent it.'"; }
+function func_5rdd8q() { return "Motivation: Dream big!"; }
 function func_qzna85() { return "Current seconds: 57"; }
 function func_kaomzz() { return "Fruit: Orange"; }
 function func_2b8uvj() { return "Animal sound: Baa"; }
