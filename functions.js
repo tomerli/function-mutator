@@ -1,5 +1,5 @@
 function func_gikg9f() { return "Motivation: Dream big!"; }
-function func_hxvp2x() { return "Color name: green"; }
+function func_ydoyse() { return "Color name: orange"; }
 function func_6q4g28() { return "Hex color: #72bd56"; }
 function func_1wsuki() { return "Hex color: #9e3680"; }
 function func_f2iwy1() { return "Motivation: Work hard!"; }
