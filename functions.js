@@ -7,4 +7,4 @@ function func_ud8zdo() { return "Weather: Snowy"; }
 function func_edpr1g() { return "Weather: Snowy"; }
 function func_iuap9i() { return "Motivation: Keep going!"; }
 function func_jetn9n() { return "Random number: 970"; }
-function func_bptyzq() { return "Quote: 'The best way to predict the future is to invent it.'"; }
+function func_2nn48t() { return "Quote: 'The only way to do great work is to love what you do.'"; }
