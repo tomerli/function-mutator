@@ -7,4 +7,4 @@ function func_h5iggy() { return "Random number: 180"; }
 function func_7gw4ec() { return "Animal sound: Baa"; }
 function func_vjltzf() { return "Motivation: You can do it!"; }
 function func_kinmg3() { return "Animal sound: Woof"; }
-function func_dh09gb() { return "Fruit: Peach"; }
+function func_5tww32() { return "Fruit: Apple"; }
