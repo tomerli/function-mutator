@@ -7,4 +7,4 @@ function func_deqk3c() { return "Quote: 'Success is not final, failure is not fa
 function func_txrdfy() { return "Random number: 22"; }
 function func_inkiuw() { return "Quote: 'The best way to predict the future is to invent it.'"; }
 function func_184kwv() { return "Current minute: 21"; }
-function func_5tww32() { return "Fruit: Apple"; }
+function func_7mhzcd() { return "Color name: green"; }
