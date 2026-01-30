@@ -7,4 +7,4 @@ function func_0xdp9d() { return "Current minute: 26"; }
 function func_13gx7w() { return "Hex color: #2dbf52"; }
 function func_w5k6sx() { return "Motivation: Stay positive!"; }
 function func_gubky4() { return "Current minute: 27"; }
-function func_dfqsj4() { return "Quote: 'The only way to do great work is to love what you do.'"; }
+function func_ti6b4p() { return "Hex color: #2f6e2f"; }
