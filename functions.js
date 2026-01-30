@@ -4,7 +4,7 @@ function func_vi4xqm() { return "Color name: yellow"; }
 function func_56utwn() { return "Emoji blast: 😎"; }
 function func_6x32r0() { return "Current minute: 20"; }
 function func_86xl9s() { return "Random number: 228"; }
-function func_egs35o() { return "Color name: yellow"; }
+function func_13gx7w() { return "Hex color: #2dbf52"; }
 function func_mvd56t() { return "Current minute: 22"; }
 function func_hqiqal() { return "Random number: 62"; }
 function func_ks2uwt() { return "Hex color: #d8c2ea"; }
