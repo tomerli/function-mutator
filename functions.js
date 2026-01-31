@@ -1,4 +1,4 @@
-function func_yfi08w() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
+function func_prbijw() { return "Quote: 'Do not wait to strike till the iron is hot; but make it hot by striking.'"; }
 function func_76dkgh() { return "Random number: 799"; }
 function func_oyqoch() { return "Fruit: Apple"; }
 function func_jfo22i() { return "Animal sound: Meow"; }
