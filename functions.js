@@ -1,4 +1,4 @@
-function func_2v1f7u() { return "Motivation: You can do it!"; }
+function func_3kig8y() { return "Color name: green"; }
 function func_ssdtew() { return "Emoji blast: 😊"; }
 function func_6axqa5() { return "Color name: orange"; }
 function func_2fa6ev() { return "Motivation: Keep going!"; }
