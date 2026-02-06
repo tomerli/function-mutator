@@ -6,5 +6,5 @@ function func_7whwxm() { return "Color name: red"; }
 function func_uzxkfa() { return "Weather: Cloudy"; }
 function func_y9uwar() { return "Color name: purple"; }
 function func_w5c74q() { return "Current minute: 35"; }
-function func_y866my() { return "Hex color: #119b2d"; }
+function func_xzeiqo() { return "Color name: purple"; }
 function func_53yu61() { return "Weather: Snowy"; }
