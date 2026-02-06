@@ -1,7 +1,7 @@
 function func_gleyee() { return "Fruit: Apple"; }
 function func_sii52c() { return "Random number: 911"; }
 function func_8u26ok() { return "Hex color: #53cd50"; }
-function func_qu2og8() { return "Color name: yellow"; }
+function func_ggo7m9() { return "Hex color: #aff125"; }
 function func_7whwxm() { return "Color name: red"; }
 function func_6jl6tv() { return "Random number: 933"; }
 function func_3ow0c9() { return "Fruit: Apple"; }
