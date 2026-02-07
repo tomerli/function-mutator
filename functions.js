@@ -1,4 +1,4 @@
-function func_cpzkyu() { return "Fruit: Orange"; }
+function func_26zhkm() { return "Fruit: Apple"; }
 function func_m6q0g0() { return "Hex color: #8b2647"; }
 function func_7zpi18() { return "Math magic: 8 * 4"; }
 function func_z1qi1v() { return "Weather: Windy"; }
