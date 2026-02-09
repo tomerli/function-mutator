@@ -6,5 +6,5 @@ function func_5klm1w() { return "Math magic: 8 * 7"; }
 function func_w3e51c() { return "Hex color: #baf688"; }
 function func_k1xbzb() { return "Current seconds: 12"; }
 function func_lxkm6t() { return "Day of week: Sunday"; }
-function func_n3varu() { return "Current minute: 3"; }
+function func_bkyuag() { return "Hex color: #0eb8ee"; }
 function func_g12ifn() { return "Day of week: Sunday"; }
