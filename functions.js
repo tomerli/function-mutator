@@ -1,4 +1,4 @@
-function func_fqfdsj() { return "Day of week: Tuesday"; }
+function func_kh3u38() { return "Hex color: #dd7a21"; }
 function func_goofqn() { return "Quote: 'If you can dream it, you can do it.'"; }
 function func_2aqzzl() { return "Math magic: 7 * 0"; }
 function func_2gtj0u() { return "Color name: red"; }
