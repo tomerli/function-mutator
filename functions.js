@@ -1,4 +1,4 @@
-function func_e90f8v() { return "Fruit: Apple"; }
+function func_v36hot() { return "Color name: green"; }
 function func_inl586() { return "Hex color: #743efb"; }
 function func_mfpp58() { return "Current minute: 17"; }
 function func_dw1zqm() { return "Current seconds: 5"; }
