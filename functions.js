@@ -1,4 +1,4 @@
-function func_4f5pim() { return "Color name: blue"; }
+function func_e90f8v() { return "Fruit: Apple"; }
 function func_f8onts() { return "Random number: 263"; }
 function func_mfpp58() { return "Current minute: 17"; }
 function func_97dzrg() { return "Current seconds: 21"; }
