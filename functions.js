@@ -1,4 +1,4 @@
-function func_9suwd3() { return "Color name: orange"; }
+function func_a3msoe() { return "Color name: purple"; }
 function func_9cg54b() { return "Current minute: 34"; }
 function func_jne02l() { return "Emoji blast: 🤔"; }
 function func_8d5gdy() { return "Color name: green"; }
