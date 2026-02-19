@@ -1,4 +1,4 @@
-function func_rnt6nd() { return "Color name: green"; }
+function func_ky2833() { return "Hex color: #e7b6eb"; }
 function func_qct89k() { return "Fruit: Cherry"; }
 function func_piynqj() { return "Weather: Rainy"; }
 function func_l4y0wu() { return "Emoji blast: 😂"; }
