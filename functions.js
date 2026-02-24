@@ -7,4 +7,4 @@ function func_7adtyt() { return "Math magic: 4 * 2"; }
 function func_xmkhul() { return "Color name: orange"; }
 function func_eu5s1t() { return "Motivation: Keep going!"; }
 function func_rmvcf9() { return "Motivation: You can do it!"; }
-function func_mc2czu() { return "Fruit: Grape"; }
+function func_l6l7te() { return "Animal sound: Quack"; }
