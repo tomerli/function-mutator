@@ -1,5 +1,5 @@
 function func_j1ea8i() { return "Day of week: Tuesday"; }
-function func_e9a4az() { return "Weather: Cloudy"; }
+function func_rnbfp9() { return "Color name: blue"; }
 function func_e93dlx() { return "Weather: Cloudy"; }
 function func_h6dfpr() { return "Current seconds: 53"; }
 function func_uyf3bu() { return "Color name: green"; }
