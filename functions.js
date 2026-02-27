@@ -3,7 +3,7 @@ function func_u382uk() { return "Fruit: Cherry"; }
 function func_yrbg1k() { return "Emoji blast: 😎"; }
 function func_q952yl() { return "Hex color: #768d3b"; }
 function func_ev97rh() { return "Color name: yellow"; }
-function func_udz6i2() { return "Quote: 'The only way to do great work is to love what you do.'"; }
+function func_vsfh5x() { return "Motivation: Dream big!"; }
 function func_bhec1a() { return "Math magic: 7 * 8"; }
 function func_fbsrky() { return "Current minute: 22"; }
 function func_zqqhkr() { return "Day of week: Thursday"; }
