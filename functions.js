@@ -1,4 +1,4 @@
-function func_jgwsvk() { return "Math magic: 7 * 6"; }
+function func_x4bx15() { return "Color name: yellow"; }
 function func_g8va02() { return "Color name: purple"; }
 function func_9cb3p9() { return "Fruit: Orange"; }
 function func_onszjk() { return "Animal sound: Meow"; }
