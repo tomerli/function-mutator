@@ -1,4 +1,4 @@
-function func_x4bx15() { return "Color name: yellow"; }
+function func_xp1vc5() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
 function func_g8va02() { return "Color name: purple"; }
 function func_9cb3p9() { return "Fruit: Orange"; }
 function func_onszjk() { return "Animal sound: Meow"; }
