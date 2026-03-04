@@ -1,6 +1,6 @@
 function func_dcvfsn() { return "Day of week: Wednesday"; }
 function func_g8va02() { return "Color name: purple"; }
-function func_h7c3or() { return "Hex color: #002ca2"; }
+function func_g2qtsb() { return "Day of week: Wednesday"; }
 function func_1yi5ab() { return "Fruit: Cherry"; }
 function func_oxq3s5() { return "Math magic: 2 * 4"; }
 function func_14swrw() { return "Math magic: 8 * 2"; }
