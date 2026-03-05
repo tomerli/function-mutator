@@ -1,4 +1,4 @@
-function func_dovgai() { return "Color name: yellow"; }
+function func_7xsgam() { return "Animal sound: Quack"; }
 function func_1ee0xm() { return "Fruit: Grape"; }
 function func_vot5ta() { return "Random number: 713"; }
 function func_4zr2yd() { return "Day of week: Thursday"; }
