@@ -1,4 +1,4 @@
-function func_j0as21() { return "Color name: blue"; }
+function func_dovgai() { return "Color name: yellow"; }
 function func_ojukvw() { return "Emoji blast: 😎"; }
 function func_vot5ta() { return "Random number: 713"; }
 function func_4zr2yd() { return "Day of week: Thursday"; }
