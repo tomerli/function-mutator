@@ -4,7 +4,7 @@ function func_3bd3tr() { return "Color name: purple"; }
 function func_i1jnkg() { return "Quote: 'Success is not final, failure is not fatal: It is the courage to continue that counts.'"; }
 function func_oxq3s5() { return "Math magic: 2 * 4"; }
 function func_dqvwby() { return "Emoji blast: 🤔"; }
-function func_tlo293() { return "Quote: 'The only way to do great work is to love what you do.'"; }
+function func_bzpmq2() { return "Day of week: Friday"; }
 function func_tg644i() { return "Animal sound: Moo"; }
 function func_tf7ppm() { return "Fruit: Grape"; }
 function func_lx36z5() { return "Fruit: Banana"; }
