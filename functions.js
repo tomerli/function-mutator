@@ -1,6 +1,6 @@
 function func_uotcg3() { return "Current minute: 29"; }
 function func_ixl08h() { return "Fruit: Orange"; }
-function func_xeip7e() { return "Color name: purple"; }
+function func_3bd3tr() { return "Color name: purple"; }
 function func_4zr2yd() { return "Day of week: Thursday"; }
 function func_oxq3s5() { return "Math magic: 2 * 4"; }
 function func_dqvwby() { return "Emoji blast: 🤔"; }
