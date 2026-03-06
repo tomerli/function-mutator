@@ -1,4 +1,4 @@
-function func_uotcg3() { return "Current minute: 29"; }
+function func_aprab7() { return "Color name: yellow"; }
 function func_ixl08h() { return "Fruit: Orange"; }
 function func_3bd3tr() { return "Color name: purple"; }
 function func_4zr2yd() { return "Day of week: Thursday"; }
