@@ -1,4 +1,4 @@
-function func_aprab7() { return "Color name: yellow"; }
+function func_5qlb0d() { return "Day of week: Friday"; }
 function func_ixl08h() { return "Fruit: Orange"; }
 function func_3bd3tr() { return "Color name: purple"; }
 function func_i1jnkg() { return "Quote: 'Success is not final, failure is not fatal: It is the courage to continue that counts.'"; }
