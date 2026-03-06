@@ -1,5 +1,5 @@
 function func_7xsgam() { return "Animal sound: Quack"; }
-function func_1ee0xm() { return "Fruit: Grape"; }
+function func_ixl08h() { return "Fruit: Orange"; }
 function func_xeip7e() { return "Color name: purple"; }
 function func_4zr2yd() { return "Day of week: Thursday"; }
 function func_oxq3s5() { return "Math magic: 2 * 4"; }
