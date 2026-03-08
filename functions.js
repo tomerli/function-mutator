@@ -5,6 +5,6 @@ function func_i1jnkg() { return "Quote: 'Success is not final, failure is not fa
 function func_3pwpur() { return "Fruit: Peach"; }
 function func_96pnfr() { return "Day of week: Sunday"; }
 function func_i09c50() { return "Motivation: Keep going!"; }
-function func_r6kc55() { return "Animal sound: Meow"; }
+function func_deyevr() { return "Fruit: Apple"; }
 function func_jk2mlh() { return "Weather: Snowy"; }
 function func_nzedxr() { return "Color name: red"; }
