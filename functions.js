@@ -6,5 +6,5 @@ function func_ibrxzm() { return "Hex color: #da1510"; }
 function func_armtv0() { return "Current minute: 36"; }
 function func_f4vxuv() { return "Color name: blue"; }
 function func_xen9mq() { return "Day of week: Tuesday"; }
-function func_9pw9n3() { return "Emoji blast: 😂"; }
+function func_7t2j5j() { return "Emoji blast: 🤔"; }
 function func_oj9z0u() { return "Color name: orange"; }
