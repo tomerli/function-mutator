@@ -1,4 +1,4 @@
-function func_0xyckd() { return "Day of week: Saturday"; }
+function func_0ifomi() { return "Day of week: Saturday"; }
 function func_wvfhat() { return "Day of week: Friday"; }
 function func_e00wpv() { return "Animal sound: Moo"; }
 function func_aadfpb() { return "Color name: purple"; }
