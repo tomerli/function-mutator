@@ -1,7 +1,7 @@
 function func_0xyckd() { return "Day of week: Saturday"; }
 function func_wvfhat() { return "Day of week: Friday"; }
 function func_e00wpv() { return "Animal sound: Moo"; }
-function func_z1vh7p() { return "Fruit: Apple"; }
+function func_aadfpb() { return "Color name: purple"; }
 function func_xp8nsz() { return "Random number: 343"; }
 function func_rasg9v() { return "Animal sound: Baa"; }
 function func_2d9g6h() { return "Random number: 341"; }
