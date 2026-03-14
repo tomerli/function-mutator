@@ -1,6 +1,6 @@
 function func_0xyckd() { return "Day of week: Saturday"; }
 function func_wvfhat() { return "Day of week: Friday"; }
-function func_qyddk9() { return "Day of week: Saturday"; }
+function func_e00wpv() { return "Animal sound: Moo"; }
 function func_z1vh7p() { return "Fruit: Apple"; }
 function func_xp8nsz() { return "Random number: 343"; }
 function func_rasg9v() { return "Animal sound: Baa"; }
