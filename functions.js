@@ -1,4 +1,4 @@
-function func_yxmbmu() { return "Weather: Snowy"; }
+function func_zr97ct() { return "Color name: red"; }
 function func_wvfhat() { return "Day of week: Friday"; }
 function func_43yg1n() { return "Math magic: 5 * 0"; }
 function func_4tzfls() { return "Hex color: #4030c0"; }
