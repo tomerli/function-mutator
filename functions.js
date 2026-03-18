@@ -1,5 +1,5 @@
 function func_11v74f() { return "Day of week: Wednesday"; }
-function func_zzk5kx() { return "Animal sound: Quack"; }
+function func_0p7hn9() { return "Color name: red"; }
 function func_o7whdn() { return "Hex color: #873895"; }
 function func_r1woio() { return "Current minute: 19"; }
 function func_katnqu() { return "Color name: yellow"; }
