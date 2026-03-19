@@ -6,5 +6,5 @@ function func_katnqu() { return "Color name: yellow"; }
 function func_kqbh6f() { return "Color name: green"; }
 function func_dcq34h() { return "Emoji blast: 😴"; }
 function func_b6w3ni() { return "Quote: 'Do not wait to strike till the iron is hot; but make it hot by striking.'"; }
-function func_5qm9m3() { return "Emoji blast: 😎"; }
+function func_cdqwvh() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
 function func_yu955k() { return "Emoji blast: 😴"; }
