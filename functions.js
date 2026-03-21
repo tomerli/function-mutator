@@ -5,6 +5,6 @@ function func_db1brf() { return "Current seconds: 0"; }
 function func_dqp13f() { return "Animal sound: Quack"; }
 function func_dxcrit() { return "Animal sound: Moo"; }
 function func_ohayja() { return "Day of week: Friday"; }
-function func_pf1fmu() { return "Hex color: #f0e6fb"; }
+function func_dzefy1() { return "Color name: orange"; }
 function func_znfdjh() { return "Day of week: Saturday"; }
 function func_3c5k5j() { return "Current minute: 23"; }
