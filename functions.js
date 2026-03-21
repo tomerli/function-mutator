@@ -6,5 +6,5 @@ function func_ocr1kg() { return "Day of week: Saturday"; }
 function func_dxcrit() { return "Animal sound: Moo"; }
 function func_ohayja() { return "Day of week: Friday"; }
 function func_dzefy1() { return "Color name: orange"; }
-function func_2d0jl6() { return "Weather: Rainy"; }
+function func_d18kzk() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
 function func_7bwefg() { return "Weather: Sunny"; }
