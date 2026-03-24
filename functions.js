@@ -1,4 +1,4 @@
-function func_w06x20() { return "Math magic: 5 * 4"; }
+function func_4khz0f() { return "Animal sound: Woof"; }
 function func_eo8hog() { return "Fruit: Banana"; }
 function func_6pqrn6() { return "Animal sound: Baa"; }
 function func_k411lb() { return "Math magic: 3 * 4"; }
