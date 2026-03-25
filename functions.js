@@ -1,6 +1,6 @@
 function func_4khz0f() { return "Animal sound: Woof"; }
 function func_pota1h() { return "Animal sound: Neigh"; }
-function func_6pqrn6() { return "Animal sound: Baa"; }
+function func_3q67qm() { return "Color name: orange"; }
 function func_k411lb() { return "Math magic: 3 * 4"; }
 function func_5b5aim() { return "Random number: 673"; }
 function func_klu4zs() { return "Motivation: Never give up!"; }
