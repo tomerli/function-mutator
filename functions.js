@@ -5,6 +5,6 @@ function func_15do0l() { return "Day of week: Thursday"; }
 function func_3kgyia() { return "Day of week: Saturday"; }
 function func_ooqtwf() { return "Random number: 532"; }
 function func_z48lu4() { return "Math magic: 1 * 7"; }
-function func_s9198i() { return "Motivation: Dream big!"; }
+function func_abcctf() { return "Color name: yellow"; }
 function func_zfeh5i() { return "Quote: 'The only way to do great work is to love what you do.'"; }
 function func_7k2y0p() { return "Hex color: #9c5a4e"; }
