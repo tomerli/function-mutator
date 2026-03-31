@@ -5,6 +5,6 @@ function func_27gylt() { return "Day of week: Monday"; }
 function func_8tdjgg() { return "Animal sound: Baa"; }
 function func_xarzyi() { return "Current minute: 49"; }
 function func_wsqfd9() { return "Current seconds: 32"; }
-function func_v93i3w() { return "Math magic: 1 * 9"; }
+function func_1r2c2r() { return "Math magic: 8 * 0"; }
 function func_2bljl1() { return "Math magic: 9 * 3"; }
 function func_55tflu() { return "Animal sound: Baa"; }
