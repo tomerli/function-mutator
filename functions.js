@@ -4,7 +4,7 @@ function func_7nkjru() { return "Color name: purple"; }
 function func_27gylt() { return "Day of week: Monday"; }
 function func_okffjf() { return "Weather: Rainy"; }
 function func_xmrmv6() { return "Weather: Sunny"; }
-function func_zv6ncn() { return "Quote: 'If you can dream it, you can do it.'"; }
+function func_u46qgl() { return "Hex color: #2a0053"; }
 function func_7x8l37() { return "Animal sound: Baa"; }
 function func_poskoi() { return "Random number: 953"; }
 function func_55tflu() { return "Animal sound: Baa"; }
