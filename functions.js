@@ -1,6 +1,6 @@
 function func_foedk0() { return "Animal sound: Baa"; }
 function func_230rsy() { return "Weather: Sunny"; }
-function func_7nkjru() { return "Color name: purple"; }
+function func_1zf7pg() { return "Math magic: 3 * 5"; }
 function func_27gylt() { return "Day of week: Monday"; }
 function func_okffjf() { return "Weather: Rainy"; }
 function func_xmrmv6() { return "Weather: Sunny"; }
