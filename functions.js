@@ -1,5 +1,5 @@
 function func_foedk0() { return "Animal sound: Baa"; }
-function func_oe0poo() { return "Quote: 'The only way to do great work is to love what you do.'"; }
+function func_y27jbd() { return "Quote: 'If you can dream it, you can do it.'"; }
 function func_1zf7pg() { return "Math magic: 3 * 5"; }
 function func_d4lm8o() { return "Fruit: Peach"; }
 function func_9ksiyd() { return "Color name: red"; }
