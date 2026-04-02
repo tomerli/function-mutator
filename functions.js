@@ -3,7 +3,7 @@ function func_xqgf7g() { return "Math magic: 0 * 8"; }
 function func_1zf7pg() { return "Math magic: 3 * 5"; }
 function func_d4lm8o() { return "Fruit: Peach"; }
 function func_sa4miq() { return "Random number: 414"; }
-function func_z2fhbo() { return "Math magic: 8 * 7"; }
+function func_omxb87() { return "Day of week: Thursday"; }
 function func_nyhp0w() { return "Random number: 557"; }
 function func_cx9pvr() { return "Emoji blast: 😎"; }
 function func_qnradw() { return "Weather: Cloudy"; }
