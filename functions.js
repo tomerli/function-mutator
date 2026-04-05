@@ -7,4 +7,4 @@ function func_rk4l78() { return "Quote: 'Success is not final, failure is not fa
 function func_xuy28v() { return "Weather: Snowy"; }
 function func_4jxnbx() { return "Math magic: 5 * 5"; }
 function func_yf1hzg() { return "Emoji blast: 😎"; }
-function func_diausc() { return "Quote: 'The best way to predict the future is to invent it.'"; }
+function func_6x2oe8() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
