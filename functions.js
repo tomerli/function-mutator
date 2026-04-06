@@ -6,5 +6,5 @@ function func_mxugl7() { return "Quote: 'You miss 100% of the shots you don't ta
 function func_iscfvk() { return "Current seconds: 24"; }
 function func_xuy28v() { return "Weather: Snowy"; }
 function func_r1hrhy() { return "Current seconds: 47"; }
-function func_bi0bno() { return "Math magic: 0 * 3"; }
+function func_cbrgv5() { return "Hex color: #4a0198"; }
 function func_5hfr1m() { return "Current minute: 39"; }
