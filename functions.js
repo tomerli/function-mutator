@@ -1,4 +1,4 @@
-function func_w8gvel() { return "Emoji blast: 😊"; }
+function func_p407sl() { return "Color name: green"; }
 function func_dbcz0g() { return "Color name: purple"; }
 function func_d8z5s7() { return "Quote: 'The best way to predict the future is to invent it.'"; }
 function func_7hsvc9() { return "Day of week: Monday"; }
