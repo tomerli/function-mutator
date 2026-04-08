@@ -1,5 +1,5 @@
 function func_4vcr1e() { return "Animal sound: Quack"; }
-function func_dbcz0g() { return "Color name: purple"; }
+function func_vhdtrg() { return "Hex color: #db9767"; }
 function func_d8z5s7() { return "Quote: 'The best way to predict the future is to invent it.'"; }
 function func_bygsk8() { return "Math magic: 4 * 7"; }
 function func_vmuucu() { return "Fruit: Orange"; }
