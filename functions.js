@@ -1,4 +1,4 @@
-function func_k6g8er() { return "Weather: Cloudy"; }
+function func_nmr2ze() { return "Animal sound: Moo"; }
 function func_682j7u() { return "Color name: red"; }
 function func_d0hmpc() { return "Hex color: #b93858"; }
 function func_iiujyz() { return "Hex color: #cfd86a"; }
