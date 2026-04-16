@@ -7,4 +7,4 @@ function func_vw8831() { return "Quote: 'Do not wait to strike till the iron is 
 function func_oiyjai() { return "Emoji blast: 😒"; }
 function func_ahxmk5() { return "Quote: 'Life is what happens when you're busy making other plans.'"; }
 function func_6d5laf() { return "Hex color: #3257c8"; }
-function func_jswwe5() { return "Fruit: Banana"; }
+function func_568lbn() { return "Color name: orange"; }
