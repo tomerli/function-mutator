@@ -4,7 +4,7 @@ function func_9v6y2l() { return "Motivation: Never give up!"; }
 function func_r2hz7n() { return "Weather: Windy"; }
 function func_13pzhe() { return "Current minute: 54"; }
 function func_smb9n3() { return "Hex color: #7a52a6"; }
-function func_wdn5l4() { return "Quote: 'You miss 100% of the shots you don't take.'"; }
+function func_9v55wv() { return "Animal sound: Woof"; }
 function func_thgp1k() { return "Quote: 'Life is what happens when you're busy making other plans.'"; }
 function func_35qu72() { return "Math magic: 5 * 8"; }
 function func_vk4bg4() { return "Color name: blue"; }
