@@ -7,4 +7,4 @@ function func_smb9n3() { return "Hex color: #7a52a6"; }
 function func_g7go7c() { return "Day of week: Wednesday"; }
 function func_thgp1k() { return "Quote: 'Life is what happens when you're busy making other plans.'"; }
 function func_35qu72() { return "Math magic: 5 * 8"; }
-function func_oi6509() { return "Color name: blue"; }
+function func_vkf2ho() { return "Hex color: #c0e8c3"; }
