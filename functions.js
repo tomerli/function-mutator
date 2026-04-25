@@ -7,4 +7,4 @@ function func_zftdi1() { return "Random number: 647"; }
 function func_g7go7c() { return "Day of week: Wednesday"; }
 function func_xn4m97() { return "Color name: purple"; }
 function func_6bj5vc() { return "Animal sound: Quack"; }
-function func_2z51n0() { return "Quote: 'Do not wait to strike till the iron is hot; but make it hot by striking.'"; }
+function func_f7t9tq() { return "Color name: blue"; }
