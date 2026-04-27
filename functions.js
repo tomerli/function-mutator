@@ -1,4 +1,4 @@
-function func_a8kw5g() { return "Day of week: Sunday"; }
+function func_qtgz0q() { return "Color name: blue"; }
 function func_rk4vyg() { return "Weather: Stormy"; }
 function func_35hjev() { return "Random number: 631"; }
 function func_9f3vss() { return "Animal sound: Meow"; }
