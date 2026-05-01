@@ -7,4 +7,4 @@ function func_xawgp7() { return "Math magic: 2 * 9"; }
 function func_bsp6fl() { return "Emoji blast: 😂"; }
 function func_xshfd3() { return "Current minute: 14"; }
 function func_qy9c2c() { return "Random number: 574"; }
-function func_v50ry8() { return "Hex color: #8014be"; }
+function func_utf9mb() { return "Color name: purple"; }
