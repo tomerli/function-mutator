@@ -4,7 +4,7 @@ function func_bftjqf() { return "Color name: purple"; }
 function func_qobckt() { return "Current seconds: 42"; }
 function func_mjyus9() { return "Animal sound: Woof"; }
 function func_bgahbq() { return "Current seconds: 41"; }
-function func_o3dcje() { return "Math magic: 1 * 5"; }
+function func_vr00tz() { return "Color name: green"; }
 function func_n4xg20() { return "Math magic: 2 * 2"; }
 function func_z64kf7() { return "Weather: Snowy"; }
 function func_a9ee6m() { return "Weather: Stormy"; }
